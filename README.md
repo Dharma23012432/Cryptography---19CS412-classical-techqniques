@@ -1,5 +1,4 @@
 # Cryptography---19CS412-classical-techqniques
-# Hill Cipher
 Hill Cipher using with different key values
 
 # AIM:
@@ -107,5 +106,4 @@ The program is executed successfully
 
 -------------------------------------------------
 
-## RESULT:
-The program is executed successfully
+
